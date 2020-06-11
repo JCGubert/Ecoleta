@@ -27,7 +27,7 @@
 
 ---
 
-##  :electric_plug: REST da API do servidor
+##  :electric_plug: APP
 
 ```bash
 
